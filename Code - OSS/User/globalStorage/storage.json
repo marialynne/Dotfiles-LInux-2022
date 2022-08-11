@@ -6,34 +6,34 @@
             "backupPath": "/home/manu320/.config/Code - OSS/Backups/8d990112e5b015f28e2d6b4dfabdfa4f",
             "uiState": {
                 "mode": 1,
-                "x": 963,
-                "y": 556,
+                "x": 3,
+                "y": 29,
                 "width": 950,
-                "height": 517
+                "height": 1044
             }
         },
         "openedWindows": []
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#1e1e2e",
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1e1e1e",
-            "editorBackground": "#1e1e1e",
-            "titleBarBackground": "#3c3c3c",
-            "activityBarBackground": "#333333",
-            "sideBarBackground": "#252526",
-            "statusBarBackground": "#007acc",
-            "statusBarNoFolderBackground": "#68217a"
+            "foreground": "#d9e0ee",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#1e1e2e",
+            "activityBarBackground": "#1e1e2e",
+            "sideBarBackground": "#1a1826",
+            "statusBarBackground": "#302d41",
+            "statusBarNoFolderBackground": "#ddb6f2"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 238,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -139,7 +139,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -641,7 +642,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -1155,7 +1157,8 @@
             },
             "workbench.action.openSettings": {
                 "label": "Ctrl+,",
-                "userSettingsLabel": "ctrl+,"
+                "isNative": false,
+                "userSettingsLabel": "ctrl+[Comma]"
             },
             "workbench.view.extensions": {
                 "label": "Ctrl+Shift+X",
@@ -1225,8 +1228,8 @@
                 "userSettingsLabel": "ctrl+shift+h"
             },
             "editor.action.commentLine": {
-                "label": "Ctrl+/",
-                "userSettingsLabel": "ctrl+/"
+                "label": "Ctrl+Shift+7",
+                "userSettingsLabel": "ctrl+shift+7"
             },
             "editor.action.blockComment": {
                 "label": "Ctrl+Shift+A",
@@ -1306,11 +1309,12 @@
                 "userSettingsLabel": "ctrl+j"
             },
             "workbench.action.zoomIn": {
-                "label": "Ctrl+=",
-                "userSettingsLabel": "ctrl+="
+                "label": "Ctrl+Shift+0",
+                "userSettingsLabel": "ctrl+shift+0"
             },
             "workbench.action.zoomOut": {
                 "label": "Ctrl+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+-"
             },
             "workbench.action.zoomReset": {
@@ -1319,9 +1323,9 @@
                 "userSettingsLabel": "ctrl+numpad0"
             },
             "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
+                "label": "Ctrl+K Ctrl+|",
                 "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
+                "userSettingsLabel": "ctrl+k ctrl+[Backquote]"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1356,20 +1360,18 @@
                 "label": "Ctrl+Shift+Y",
                 "userSettingsLabel": "ctrl+shift+y"
             },
-            "workbench.action.terminal.toggleTerminal": {
-                "label": "Ctrl+`",
-                "userSettingsLabel": "ctrl+`"
-            },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
                 "userSettingsLabel": "alt+z"
             },
             "workbench.action.navigateBack": {
                 "label": "Ctrl+Alt+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+alt+-"
             },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+-"
             },
             "workbench.action.navigateToLastEditLocation": {
@@ -1464,8 +1466,9 @@
                 "userSettingsLabel": "ctrl+g"
             },
             "editor.action.jumpToBracket": {
-                "label": "Ctrl+Shift+\\",
-                "userSettingsLabel": "ctrl+shift+\\"
+                "label": "Ctrl+|",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+[Backquote]"
             },
             "editor.action.marker.nextInFiles": {
                 "label": "F8",
@@ -1522,10 +1525,6 @@
             "editor.debug.action.toggleInlineBreakpoint": {
                 "label": "Shift+F9",
                 "userSettingsLabel": "shift+f9"
-            },
-            "workbench.action.terminal.new": {
-                "label": "Ctrl+Shift+`",
-                "userSettingsLabel": "ctrl+shift+`"
             },
             "workbench.action.terminal.split": {
                 "label": "Ctrl+Shift+5",

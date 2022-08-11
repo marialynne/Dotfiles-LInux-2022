@@ -1,0 +1,71 @@
+[2022-08-10 23:13:20.589] [renderer1] [critical] Extension 'ms-python.python CANNOT USE these API proposals 'quickPickSortByLabel, testObserver'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-08-10 23:13:20.589] [renderer1] [critical] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookControllerKind, notebookWorkspaceEdit, notebookDebugOptions, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-08-10 23:13:20.749] [renderer1] [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+[2022-08-10 23:13:23.453] [renderer1] [error] Git error
+[2022-08-10 23:13:23.730] [renderer1] [error] [Extension Host] globalMsCrypto undefined undefined {"subtle":{},"asn1":{},"url":null,"version":"1.6.5"}
+[2022-08-10 23:13:24.204] [renderer1] [error] [Extension Host] extension activation failed Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:68123)
+    at d.onDidChangeNotebookCellExecutionState (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:52770)
+    at new f (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:308606)
+    at Object.t.resolveInstance (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1395108)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1397046
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1395964
+    at Array.map (<anonymous>)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1395936
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1394882)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1397046
+    at Object.t.resolve (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1397309)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1380722
+    at e._get (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1380488)
+    at e.get (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1379131)
+    at a.get (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:48723)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:2933890
+[2022-08-10 23:13:25.198] [renderer1] [error] Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter: Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:68123)
+    at d.onDidChangeNotebookCellExecutionState (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:52770)
+    at new f (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:308606)
+    at Object.t.resolveInstance (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1395108)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1397046
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1395964
+    at Array.map (<anonymous>)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1395936
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1394882)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1397046
+    at Object.t.resolve (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1397309)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1380722
+    at e._get (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1380488)
+    at e.get (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:1379131)
+    at a.get (/home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:48723)
+    at /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:2933890
+[2022-08-10 23:13:25.432] [renderer1] [error] Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python: Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+    at g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:68123)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:34047)
+    at P.activate (/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:745691)
+    at /home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2251
+    at Array.map (<anonymous>)
+    at f.activateWorkspace (/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/out/client/extension.js:2:2241)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-10 23:19:04.072] [renderer1] [error] Git error
+[2022-08-10 23:19:07.444] [renderer1] [error] Git error
+[2022-08-10 23:19:10.192] [renderer1] [error] Git error
+[2022-08-10 23:19:23.786] [renderer1] [error] Git error
+[2022-08-10 23:20:00.343] [renderer1] [error] Git error
+[2022-08-10 23:21:04.674] [renderer1] [error] Git error
+[2022-08-10 23:23:16.050] [renderer1] [error] Git error
+[2022-08-10 23:23:17.677] [renderer1] [error] Git error
+[2022-08-10 23:23:26.270] [renderer1] [error] Git error
+[2022-08-10 23:23:29.330] [renderer1] [error] Git error
+[2022-08-10 23:23:30.825] [renderer1] [error] Git error
+[2022-08-10 23:23:32.145] [renderer1] [error] Git error

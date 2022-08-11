@@ -1,0 +1,141 @@
+[2022-08-10 22:54:40.836] [sharedprocess] [info] Starting worker process with pid 2642 (type: fileWatcher, window: 1).
+[2022-08-10 22:54:57.309] [sharedprocess] [info] Getting Manifest... catppuccin.catppuccin-vsc
+[2022-08-10 22:54:57.539] [sharedprocess] [info] Installing extension: catppuccin.catppuccin-vsc
+[2022-08-10 22:54:59.354] [sharedprocess] [info] Downloaded extension: catppuccin.catppuccin-vsc /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/catppuccin.catppuccin-vsc-1.0.6
+[2022-08-10 22:54:59.417] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.536cefbe-bb83-449c-951c-73c5b873b53a: catppuccin.catppuccin-vsc
+[2022-08-10 22:54:59.420] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/catppuccin.catppuccin-vsc-1.0.6
+[2022-08-10 22:54:59.421] [sharedprocess] [info] Extracting completed. catppuccin.catppuccin-vsc
+[2022-08-10 22:54:59.422] [sharedprocess] [info] Extension installed successfully: catppuccin.catppuccin-vsc
+[2022-08-10 22:55:32.862] [sharedprocess] [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+[2022-08-10 22:55:33.003] [sharedprocess] [info] Installing extension: llvm-vs-code-extensions.vscode-clangd
+[2022-08-10 22:55:33.747] [sharedprocess] [info] Downloaded extension: llvm-vs-code-extensions.vscode-clangd /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/llvm-vs-code-extensions.vscode-clangd-0.1.21
+[2022-08-10 22:55:33.777] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.6c1d8e50-ad30-4f33-9ecf-41123f9adbd6: llvm-vs-code-extensions.vscode-clangd
+[2022-08-10 22:55:33.779] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.21
+[2022-08-10 22:55:33.781] [sharedprocess] [info] Extracting completed. llvm-vs-code-extensions.vscode-clangd
+[2022-08-10 22:55:33.781] [sharedprocess] [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd
+[2022-08-10 22:55:41.650] [sharedprocess] [info] Getting Manifest... muhammad-sammy.csharp
+[2022-08-10 22:55:41.845] [sharedprocess] [info] Installing extension: muhammad-sammy.csharp
+[2022-08-10 22:55:42.661] [sharedprocess] [info] Downloaded extension: muhammad-sammy.csharp /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/muhammad-sammy.csharp-1.25.0
+[2022-08-10 22:55:42.718] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.baf1b991-11dc-46ad-adfd-850955be177e: muhammad-sammy.csharp
+[2022-08-10 22:55:42.723] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/muhammad-sammy.csharp-1.25.0
+[2022-08-10 22:55:42.725] [sharedprocess] [info] Extracting completed. muhammad-sammy.csharp
+[2022-08-10 22:55:42.728] [sharedprocess] [info] Extension installed successfully: muhammad-sammy.csharp
+[2022-08-10 22:55:54.350] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-08-10 22:55:54.501] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-08-10 22:55:54.663] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-08-10 22:55:55.406] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-08-10 22:55:55.851] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-08-10 22:55:56.452] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-08-10 22:55:56.452] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-08-10 22:55:56.452] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-08-10 22:55:57.038] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-08-10 22:55:57.066] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.51a871fe-174e-43e4-8b4d-d69b7850de63: ms-toolsai.jupyter-keymap
+[2022-08-10 22:55:57.069] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-08-10 22:55:57.070] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-08-10 22:55:57.643] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9
+[2022-08-10 22:55:57.829] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.4053351b-b9ea-4e19-873f-5cfd10412e2e: ms-toolsai.jupyter-renderers
+[2022-08-10 22:55:57.837] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.9
+[2022-08-10 22:55:57.839] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-08-10 22:55:58.412] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-08-10 22:55:58.548] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-08-10 22:55:59.741] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.8.1002170547
+[2022-08-10 22:56:00.272] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.6be2bd20-136e-4781-b3ae-7318a935e586: ms-toolsai.jupyter
+[2022-08-10 22:56:00.282] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547
+[2022-08-10 22:56:00.300] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-08-10 22:56:00.583] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-08-10 22:56:00.895] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.a4aa0ee7-72a9-4653-8896-eb3e42e43734: esbenp.prettier-vscode
+[2022-08-10 22:56:00.904] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0
+[2022-08-10 22:56:00.906] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-08-10 22:56:00.907] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-08-10 22:56:02.377] [sharedprocess] [info] Downloaded extension: ms-python.python /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2022.12.0
+[2022-08-10 22:56:04.177] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.f6299268-8509-4062-a0cb-246d7de15936: ms-python.python
+[2022-08-10 22:56:04.191] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0
+[2022-08-10 22:56:04.198] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-08-10 22:56:04.203] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-08-10 22:56:04.203] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-08-10 22:56:04.203] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-08-10 22:56:04.203] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-08-10 22:56:22.910] [sharedprocess] [info] Getting Manifest... abusaidm.html-snippets
+[2022-08-10 22:56:23.040] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2022-08-10 22:56:23.682] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/abusaidm.html-snippets-0.2.1
+[2022-08-10 22:56:23.693] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.1917d134-a8fa-49e4-b9d3-ad8fe2eca1a1: abusaidm.html-snippets
+[2022-08-10 22:56:23.696] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/abusaidm.html-snippets-0.2.1
+[2022-08-10 22:56:23.697] [sharedprocess] [info] Extracting completed. abusaidm.html-snippets
+[2022-08-10 22:56:23.697] [sharedprocess] [info] Extension installed successfully: abusaidm.html-snippets
+[2022-08-10 22:56:25.448] [sharedprocess] [info] Getting Manifest... ecmel.vscode-html-css
+[2022-08-10 22:56:25.590] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2022-08-10 22:56:26.277] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/ecmel.vscode-html-css-1.13.1
+[2022-08-10 22:56:26.318] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.f7658f66-957d-4774-bd6a-2cc4798dd8f5: ecmel.vscode-html-css
+[2022-08-10 22:56:26.321] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/ecmel.vscode-html-css-1.13.1
+[2022-08-10 22:56:26.323] [sharedprocess] [info] Extracting completed. ecmel.vscode-html-css
+[2022-08-10 22:56:26.323] [sharedprocess] [info] Extension installed successfully: ecmel.vscode-html-css
+[2022-08-10 22:56:29.879] [sharedprocess] [info] Getting Manifest... anteprimorac.html-end-tag-labels
+[2022-08-10 22:56:30.011] [sharedprocess] [info] Installing extension: anteprimorac.html-end-tag-labels
+[2022-08-10 22:56:30.668] [sharedprocess] [info] Downloaded extension: anteprimorac.html-end-tag-labels /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/anteprimorac.html-end-tag-labels-0.9.0
+[2022-08-10 22:56:30.749] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.ba986dca-141b-4923-b918-bf17790d60e6: anteprimorac.html-end-tag-labels
+[2022-08-10 22:56:30.753] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/anteprimorac.html-end-tag-labels-0.9.0
+[2022-08-10 22:56:30.754] [sharedprocess] [info] Extracting completed. anteprimorac.html-end-tag-labels
+[2022-08-10 22:56:30.755] [sharedprocess] [info] Extension installed successfully: anteprimorac.html-end-tag-labels
+[2022-08-10 22:56:33.029] [sharedprocess] [info] Getting Manifest... formulahendry.auto-rename-tag
+[2022-08-10 22:56:33.170] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2022-08-10 22:56:33.839] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.10
+[2022-08-10 22:56:33.874] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.a802a3da-176d-4240-9c07-67ce5ac64f45: formulahendry.auto-rename-tag
+[2022-08-10 22:56:33.880] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.10
+[2022-08-10 22:56:33.881] [sharedprocess] [info] Extracting completed. formulahendry.auto-rename-tag
+[2022-08-10 22:56:33.882] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-rename-tag
+[2022-08-10 22:56:38.874] [sharedprocess] [info] Getting Manifest... zignd.html-css-class-completion
+[2022-08-10 22:56:39.015] [sharedprocess] [info] Installing extension: zignd.html-css-class-completion
+[2022-08-10 22:56:39.850] [sharedprocess] [info] Downloaded extension: zignd.html-css-class-completion /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/zignd.html-css-class-completion-1.20.0
+[2022-08-10 22:56:40.722] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.04db911e-928f-461c-9f64-b9542dcaeb66: zignd.html-css-class-completion
+[2022-08-10 22:56:40.732] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/zignd.html-css-class-completion-1.20.0
+[2022-08-10 22:56:40.733] [sharedprocess] [info] Extracting completed. zignd.html-css-class-completion
+[2022-08-10 22:56:40.734] [sharedprocess] [info] Extension installed successfully: zignd.html-css-class-completion
+[2022-08-10 22:56:46.605] [sharedprocess] [info] Getting Manifest... formulahendry.auto-close-tag
+[2022-08-10 22:56:46.733] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2022-08-10 22:56:47.452] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.auto-close-tag-0.5.14
+[2022-08-10 22:56:47.475] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.cd569eec-c7ea-4c38-ba2a-1e67c30ffeba: formulahendry.auto-close-tag
+[2022-08-10 22:56:47.477] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.14
+[2022-08-10 22:56:47.479] [sharedprocess] [info] Extracting completed. formulahendry.auto-close-tag
+[2022-08-10 22:56:47.479] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-close-tag
+[2022-08-10 22:56:54.649] [sharedprocess] [info] Getting Manifest... pranaygp.vscode-css-peek
+[2022-08-10 22:56:54.791] [sharedprocess] [info] Installing extension: pranaygp.vscode-css-peek
+[2022-08-10 22:56:55.526] [sharedprocess] [info] Downloaded extension: pranaygp.vscode-css-peek /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/pranaygp.vscode-css-peek-4.2.0
+[2022-08-10 22:56:55.713] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.34e723af-49e3-4ece-b61d-548077ae0a9c: pranaygp.vscode-css-peek
+[2022-08-10 22:56:55.721] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/pranaygp.vscode-css-peek-4.2.0
+[2022-08-10 22:56:55.723] [sharedprocess] [info] Extracting completed. pranaygp.vscode-css-peek
+[2022-08-10 22:56:55.723] [sharedprocess] [info] Extension installed successfully: pranaygp.vscode-css-peek
+[2022-08-10 22:57:03.993] [sharedprocess] [info] Getting Manifest... phoenisx.cssvar
+[2022-08-10 22:57:04.164] [sharedprocess] [info] Installing extension: phoenisx.cssvar
+[2022-08-10 22:57:04.978] [sharedprocess] [info] Downloaded extension: phoenisx.cssvar /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/phoenisx.cssvar-2.1.0
+[2022-08-10 22:57:05.005] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.e2d25b8f-a840-4da5-a1b1-00d77996b3c4: phoenisx.cssvar
+[2022-08-10 22:57:05.008] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/phoenisx.cssvar-2.1.0
+[2022-08-10 22:57:05.010] [sharedprocess] [info] Extracting completed. phoenisx.cssvar
+[2022-08-10 22:57:05.011] [sharedprocess] [info] Extension installed successfully: phoenisx.cssvar
+[2022-08-10 22:57:33.244] [sharedprocess] [info] Getting Manifest... shufo.vscode-blade-formatter
+[2022-08-10 22:57:33.387] [sharedprocess] [info] Installing extension: shufo.vscode-blade-formatter
+[2022-08-10 22:57:35.171] [sharedprocess] [info] Downloaded extension: shufo.vscode-blade-formatter /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/shufo.vscode-blade-formatter-0.17.0
+[2022-08-10 22:57:35.488] [sharedprocess] [info] Getting Manifest... amiralizadeh9480.laravel-extra-intellisense
+[2022-08-10 22:57:35.616] [sharedprocess] [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+[2022-08-10 22:57:36.544] [sharedprocess] [info] Downloaded extension: amiralizadeh9480.laravel-extra-intellisense /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/amiralizadeh9480.laravel-extra-intellisense-0.6.2
+[2022-08-10 22:57:36.602] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.4b009b0d-bb3e-40fd-bbc0-79be7fe86b91: amiralizadeh9480.laravel-extra-intellisense
+[2022-08-10 22:57:36.605] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.2
+[2022-08-10 22:57:36.607] [sharedprocess] [info] Extracting completed. amiralizadeh9480.laravel-extra-intellisense
+[2022-08-10 22:57:36.608] [sharedprocess] [info] Extension installed successfully: amiralizadeh9480.laravel-extra-intellisense
+[2022-08-10 22:57:39.146] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.3470fe20-4788-4858-8b5d-347e2e859dfa: shufo.vscode-blade-formatter
+[2022-08-10 22:57:39.158] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/shufo.vscode-blade-formatter-0.17.0
+[2022-08-10 22:57:39.159] [sharedprocess] [info] Extracting completed. shufo.vscode-blade-formatter
+[2022-08-10 22:57:39.161] [sharedprocess] [info] Extension installed successfully: shufo.vscode-blade-formatter
+[2022-08-10 22:57:45.763] [sharedprocess] [info] Getting Manifest... onecentlin.laravel5-snippets
+[2022-08-10 22:57:45.926] [sharedprocess] [info] Installing extension: onecentlin.laravel5-snippets
+[2022-08-10 22:57:46.667] [sharedprocess] [info] Downloaded extension: onecentlin.laravel5-snippets /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/onecentlin.laravel5-snippets-1.15.0
+[2022-08-10 22:57:46.730] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.4c7af88b-3c04-4122-befa-df5afd21494b: onecentlin.laravel5-snippets
+[2022-08-10 22:57:46.732] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/onecentlin.laravel5-snippets-1.15.0
+[2022-08-10 22:57:46.733] [sharedprocess] [info] Extracting completed. onecentlin.laravel5-snippets
+[2022-08-10 22:57:46.734] [sharedprocess] [info] Extension installed successfully: onecentlin.laravel5-snippets
+[2022-08-10 22:58:07.647] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-08-10 22:58:07.786] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-08-10 22:58:08.534] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/manu320/.config/Code - OSS/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-08-10 22:58:09.149] [sharedprocess] [info] Extracted extension to /home/manu320/.vscode-oss/extensions/.619f1062-f607-4245-9478-3eaef56dec8c: ritwickdey.liveserver
+[2022-08-10 22:58:09.160] [sharedprocess] [info] Renamed to /home/manu320/.vscode-oss/extensions/ritwickdey.liveserver-5.7.5
+[2022-08-10 22:58:09.161] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-08-10 22:58:09.162] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver

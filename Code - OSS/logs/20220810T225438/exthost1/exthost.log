@@ -1,0 +1,126 @@
+[2022-08-10 22:54:40.575] [exthost] [info] Extension host with pid 2575 started
+[2022-08-10 22:54:40.575] [exthost] [info] Skipping acquiring lock for /home/manu320/.config/Code - OSS/User/workspaceStorage/6a7bad11e60a69ed78162b22e93f74f1.
+[2022-08-10 22:54:40.689] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-10 22:54:40.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-10 22:54:40.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-10 22:54:40.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-10 22:54:40.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-10 22:54:40.803] [exthost] [info] Eager extensions activated
+[2022-08-10 22:54:40.846] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-10 22:54:40.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.368] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:54:41.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/manu320/.config/Qtile-config/dotfiles' is in submodule 'Qtile-config'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-10 22:55:01.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-10 22:55:01.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-10 22:55:02.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-10 22:55:28.598] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 261
+[2022-08-10 22:55:33.708] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 265
+[2022-08-10 22:55:39.551] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 282
+[2022-08-10 22:55:44.589] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 287
+[2022-08-10 22:55:49.624] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 287
+[2022-08-10 22:55:54.738] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 291
+[2022-08-10 22:56:01.024] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-10 22:56:03.473] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 334
+[2022-08-10 22:56:04.482] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-10 22:56:04.802] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-10 22:56:08.525] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 341
+[2022-08-10 22:56:13.583] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 348
+[2022-08-10 22:56:18.643] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 354
+[2022-08-10 22:56:23.711] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 383
+[2022-08-10 22:56:26.432] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+[2022-08-10 22:56:28.769] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 393
+[2022-08-10 22:56:33.842] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 449
+[2022-08-10 22:56:34.188] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: false, activationEvent: '*'
+[2022-08-10 22:56:38.949] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 464
+[2022-08-10 22:56:40.822] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: false, activationEvent: '*'
+[2022-08-10 22:56:44.011] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 499
+[2022-08-10 22:56:47.582] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: false, activationEvent: '*'
+[2022-08-10 22:56:50.778] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 561
+[2022-08-10 22:56:55.854] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 589
+[2022-08-10 22:57:00.927] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 607
+[2022-08-10 22:57:09.971] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 662
+[2022-08-10 22:57:15.033] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 662
+[2022-08-10 22:57:20.185] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 720
+[2022-08-10 22:57:25.247] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 722
+[2022-08-10 22:57:30.321] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 775
+[2022-08-10 22:57:35.381] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 797
+[2022-08-10 22:57:40.436] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 812
+[2022-08-10 22:57:45.494] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 814
+[2022-08-10 22:57:50.566] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 838
+[2022-08-10 22:57:55.650] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 838
+[2022-08-10 22:58:00.710] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 866
+[2022-08-10 22:58:05.821] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 891
+[2022-08-10 22:58:09.282] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-10 22:58:12.510] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 929
+[2022-08-10 22:58:17.641] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 966
+[2022-08-10 22:58:24.399] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1130
+[2022-08-10 22:58:29.533] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1130
+[2022-08-10 22:58:34.594] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1130
+[2022-08-10 22:58:39.658] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1130
+[2022-08-10 22:58:44.821] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1133
+[2022-08-10 22:58:49.884] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1133
+[2022-08-10 22:58:55.032] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1135
+[2022-08-10 22:59:00.128] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1135
+[2022-08-10 22:59:05.192] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1135
+[2022-08-10 22:59:11.049] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1135
+[2022-08-10 22:59:16.147] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1136
+[2022-08-10 23:09:13.034] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1141
+[2022-08-10 23:09:18.114] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1140
+[2022-08-10 23:09:23.189] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1140
+[2022-08-10 23:09:28.288] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1140
+[2022-08-10 23:09:33.342] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1140
+[2022-08-10 23:09:38.424] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1140
+[2022-08-10 23:09:43.484] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1140
+[2022-08-10 23:09:48.540] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1141
+[2022-08-10 23:09:53.660] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1141
+[2022-08-10 23:09:58.742] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1141
+[2022-08-10 23:10:03.823] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1142
+[2022-08-10 23:10:08.891] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1142
+[2022-08-10 23:10:13.961] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+[2022-08-10 23:10:19.023] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1144
+[2022-08-10 23:10:24.152] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+[2022-08-10 23:10:29.211] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+[2022-08-10 23:12:08.269] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1146
+[2022-08-10 23:12:13.328] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1147
+[2022-08-10 23:12:14.917] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-10 23:12:14.938] [exthost] [info] Extension host with pid 2575 exiting with code 0
