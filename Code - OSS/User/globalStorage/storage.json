@@ -6,10 +6,10 @@
             "backupPath": "/home/manu320/.config/Code - OSS/Backups/8d990112e5b015f28e2d6b4dfabdfa4f",
             "uiState": {
                 "mode": 1,
-                "x": 3,
-                "y": 29,
-                "width": 950,
-                "height": 1044
+                "x": 968,
+                "y": 38,
+                "width": 940,
+                "height": 1030
             }
         },
         "openedWindows": []
@@ -139,8 +139,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -619,6 +618,10 @@
                         "label": "E&&xtensions"
                     },
                     {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -642,8 +645,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "checked": true
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",

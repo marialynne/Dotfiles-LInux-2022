@@ -59,3 +59,6 @@
 [2022-08-10 23:39:46.650] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2919
 [2022-08-10 23:39:51.728] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2920
 [2022-08-10 23:39:56.856] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2919
+[2022-08-10 23:43:31.122] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2919
+[2022-08-10 23:43:32.170] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-10 23:43:32.192] [exthost] [info] Extension host with pid 47314 exiting with code 0

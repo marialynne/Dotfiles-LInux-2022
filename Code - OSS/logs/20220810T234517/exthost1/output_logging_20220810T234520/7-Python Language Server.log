@@ -1,0 +1,98 @@
+WARNING:pygls.protocol:Cancel notification for unknown message id "16"
+WARNING:pygls.protocol:Cancel notification for unknown message id "22"
+ERROR:pygls.protocol:Failed to handle request 36 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/manu320/.config/Qtile-config/qtile/config.py') position=6:7
+Traceback (most recent call last):
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+[Error - 11:47:48 PM] Request textDocument/hover failed.
+  Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+ERROR:pygls.protocol:Failed to handle request 80 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/manu320/.config/qtile/config.py') position=151:0
+Traceback (most recent call last):
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 352, in hover
+    jedi_script.help(
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper
+    raise ValueError('`column` parameter (%d) is not in a valid range '
+ValueError: `column` parameter (1) is not in a valid range (0-0) for line 152 ('\n').
+[Error - 12:00:28 AM] Request textDocument/hover failed.
+  Message: ValueError: `column` parameter (1) is not in a valid range (0-0) for line 152 ('\n').
+  Code: -32602 
+{'traceback': ['  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 352, in hover\n    jedi_script.help(\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper\n    raise ValueError(\'`column` parameter (%d) is not in a valid range \'\n']}
+WARNING:pygls.protocol:Cancel notification for unknown message id "88"
+ERROR:pygls.protocol:Failed to handle request 151 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/manu320/.config/Qtile-config/qtile/modules/__pycache__/groups.py') position=37:0
+Traceback (most recent call last):
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 352, in hover
+    jedi_script.help(
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper
+    raise ValueError('`column` parameter (%d) is not in a valid range '
+ValueError: `column` parameter (1) is not in a valid range (0-0) for line 38 ('').
+[Error - 12:04:26 AM] Request textDocument/hover failed.
+  Message: ValueError: `column` parameter (1) is not in a valid range (0-0) for line 38 ('').
+  Code: -32602 
+{'traceback': ['  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 352, in hover\n    jedi_script.help(\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper\n    raise ValueError(\'`column` parameter (%d) is not in a valid range \'\n']}
+WARNING:pygls.protocol:Cancel notification for unknown message id "184"
+WARNING:pygls.protocol:Cancel notification for unknown message id "190"
+WARNING:pygls.protocol:Cancel notification for unknown message id "251"
+ERROR:pygls.protocol:Failed to handle request 275 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/manu320/.config/qtile/modules/widgets.py') position=2:0
+Traceback (most recent call last):
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 352, in hover
+    jedi_script.help(
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper
+    raise ValueError('`column` parameter (%d) is not in a valid range '
+ValueError: `column` parameter (1) is not in a valid range (0-0) for line 3 ('\n').
+[Error - 12:11:40 AM] Request textDocument/hover failed.
+  Message: ValueError: `column` parameter (1) is not in a valid range (0-0) for line 3 ('\n').
+  Code: -32602 
+{'traceback': ['  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 352, in hover\n    jedi_script.help(\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper\n    raise ValueError(\'`column` parameter (%d) is not in a valid range \'\n']}
+ERROR:pygls.protocol:Failed to handle request 276 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/manu320/.config/qtile/modules/widgets.py') position=14:0
+Traceback (most recent call last):
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 352, in hover
+    jedi_script.help(
+  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper
+    raise ValueError('`column` parameter (%d) is not in a valid range '
+ValueError: `column` parameter (1) is not in a valid range (0-0) for line 15 ('\n').
+[Error - 12:11:41 AM] Request textDocument/hover failed.
+  Message: ValueError: `column` parameter (1) is not in a valid range (0-0) for line 15 ('\n').
+  Code: -32602 
+{'traceback': ['  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 352, in hover\n    jedi_script.help(\n', '  File "/home/manu320/.vscode-oss/extensions/ms-python.python-2022.12.0/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper\n    raise ValueError(\'`column` parameter (%d) is not in a valid range \'\n']}
+WARNING:pygls.protocol:Cancel notification for unknown message id "304"
+WARNING:pygls.protocol:Cancel notification for unknown message id "326"
+WARNING:pygls.protocol:Cancel notification for unknown message id "357"
+WARNING:pygls.protocol:Cancel notification for unknown message id "382"
+WARNING:pygls.protocol:Cancel notification for unknown message id "443"
+WARNING:pygls.protocol:Cancel notification for unknown message id "451"
+WARNING:pygls.protocol:Cancel notification for unknown message id "468"
+WARNING:pygls.protocol:Cancel notification for unknown message id "516"
+WARNING:pygls.protocol:Cancel notification for unknown message id "580"
+WARNING:pygls.protocol:Cancel notification for unknown message id "611"
+WARNING:pygls.protocol:Cancel notification for unknown message id "711"
+WARNING:pygls.protocol:Cancel notification for unknown message id "792"
+WARNING:pygls.protocol:Cancel notification for unknown message id "826"
+WARNING:pygls.protocol:Cancel notification for unknown message id "881"
+WARNING:pygls.protocol:Cancel notification for unknown message id "882"
