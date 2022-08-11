@@ -7,9 +7,9 @@
             "uiState": {
                 "mode": 1,
                 "x": 968,
-                "y": 38,
+                "y": 555,
                 "width": 940,
-                "height": 1030
+                "height": 513
             }
         },
         "openedWindows": []
@@ -673,7 +673,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -682,7 +683,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
