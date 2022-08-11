@@ -1,5 +1,10 @@
 from libqtile import widget
 from libqtile import qtile
+from libqtile import bar
+from libqtile.config import Screen
+from modules.keys import terminal
+import os
+
 
 # PANEL
 catppuccin = {
@@ -18,6 +23,40 @@ catppuccin = {
     "gray0": "#6E6C7E",
     "black1": "#1A1826",
 }
+nord_fox = {
+    'bg': "#2e3440",
+    'fg': "#b9bfca",
+    'fg_gutter': "#4b5668",
+    'black': "#3b4252",
+    'red': "#bf616a",
+    'green': "#a3be8c",
+    'yellow': "#ebcb8b",
+    'blue': "#81a1c1",
+    'magenta': "#b48ead",
+    'cyan': "#88c0d0",
+    'white': "#e5e9f0",
+    'orange': "#c9826b",
+    'pink': "#bf88bc",
+}
+
+rose_pine = {
+    "bg": "#1f1d2e",
+    "fg": "#e0def4",
+    "fg_gutter": "#555169",
+    "black": "#191724",
+    "red": "#eb6f92",
+    "green": "#31748f",
+    "yellow": "#f6c177",
+    "blue": "#9ccfd8",
+    "magenta": "#c4a7e7",
+    "cyan": "#555169",
+    "white": "#e0def4",
+    "orange": "#6e6a86",
+    "pink": "#2a2837"
+}
+
+# selected colorscheme
+colors = rose_pine
 
 widget_defaults = dict(
     font="JetBrainsMono Nerd Font",
@@ -65,7 +104,7 @@ def get_widgets(primary=False):
             background=catppuccin["peach"],
         ),
         widget.GroupBox(
-            highlight_method="line",
+            highlight_method="text",
             background=catppuccin["peach"],
             highlight_color=[catppuccin["peach"], catppuccin["peach"]],
             other_screen_border=catppuccin["gray0"],
@@ -169,3 +208,24 @@ def get_widgets(primary=False):
 
 
 
+
+
+screens = [
+    Screen(
+        top=bar.Bar(
+            get_widgets(primary=True),
+            24,
+            background="#00000000",
+            margin=[2, 0, 0, 0],
+        ),
+    ),
+    Screen(
+        top=bar.Bar(
+            # Use everything except the systray, which would crash
+            get_widgets(primary=False),
+            24,
+            background="#00000000",
+            margin=[2, 0, 0, 0],
+        )
+    ),
+]

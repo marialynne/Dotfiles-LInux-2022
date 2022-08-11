@@ -7,12 +7,12 @@ default_layout_config = {
     "border_focus": '#5294e2',
     "border_normal": '#2c5380',
     "border_width": 2,
-    "margin": 6,
+    "margin": 4,
 }
 
 layouts = [
     layout.MonadTall(**default_layout_config),
-    layout.Columns(**default_layout_config),
+    layout.Columns(),
     layout.Max(**default_layout_config),
     # Try more layouts by unleashing below layouts.
     # layout.Stack(num_stacks=2),

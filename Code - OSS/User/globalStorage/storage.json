@@ -6,10 +6,10 @@
             "backupPath": "/home/manu320/.config/Code - OSS/Backups/8d990112e5b015f28e2d6b4dfabdfa4f",
             "uiState": {
                 "mode": 1,
-                "x": 968,
-                "y": 555,
-                "width": 940,
-                "height": 513
+                "x": 6,
+                "y": 32,
+                "width": 1904,
+                "height": 1038
             }
         },
         "openedWindows": []
@@ -139,7 +139,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -673,8 +674,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -683,8 +683,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"

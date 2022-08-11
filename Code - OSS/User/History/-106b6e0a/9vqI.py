@@ -1,5 +1,10 @@
 from libqtile import widget
 from libqtile import qtile
+from libqtile import bar
+from libqtile.config import Screen
+from modules.keys import terminal
+import os
+
 
 # PANEL
 catppuccin = {
@@ -65,7 +70,7 @@ def get_widgets(primary=False):
             background=catppuccin["peach"],
         ),
         widget.GroupBox(
-            highlight_method="line",
+            highlight_method="text",
             background=catppuccin["peach"],
             highlight_color=[catppuccin["peach"], catppuccin["peach"]],
             other_screen_border=catppuccin["gray0"],
@@ -169,3 +174,24 @@ def get_widgets(primary=False):
 
 
 
+
+
+screens = [
+    Screen(
+        top=bar.Bar(
+            get_widgets(primary=True),
+            24,
+            background="#00000000",
+            margin=[2, 0, 0, 0],
+        ),
+    ),
+    Screen(
+        top=bar.Bar(
+            # Use everything except the systray, which would crash
+            get_widgets(primary=False),
+            24,
+            background="#00000000",
+            margin=[2, 0, 0, 0],
+        )
+    ),
+]
