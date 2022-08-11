@@ -1,0 +1,10 @@
+[2022-08-10 22:25:29.697] [exthost] [info] Extension host with pid 1546 started
+[2022-08-10 22:25:29.697] [exthost] [info] Skipping acquiring lock for /home/manu320/.config/Code - OSS/User/workspaceStorage/6a7bad11e60a69ed78162b22e93f74f1.
+[2022-08-10 22:25:29.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-10 22:25:29.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-08-10 22:25:29.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-10 22:25:29.799] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-10 22:25:29.819] [exthost] [info] Eager extensions activated
+[2022-08-10 22:25:29.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-10 22:25:29.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-10 22:25:33.246] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
