@@ -177,25 +177,10 @@ def get_widgets(primary=False):
             foreground = colors["pink"],
             background = colors["magenta"],
         ),
-         widget.CheckUpdates(
-            custom_command='sudo pacman -Syuu',
-            no_update_string='0   ',
-            display_format='{updates}   ',
-            distro='Arch',
-            foreground = colors["white"],
-            background = colors["pink"],
-        ),
-        widget.TextBox(
-            text = "",
-            padding = 0,
-            fontsize = 30,
-            foreground = colors["fg_gutter"],
-            background = colors["pink"],
-        ),
         widget.Clock(
             format="%d/%m/%y - %I:%M %p ", 
             foreground = colors["white"],
-            background = colors["fg_gutter"]
+            background = colors["pink"]
         ),
     ]
     if primary:
