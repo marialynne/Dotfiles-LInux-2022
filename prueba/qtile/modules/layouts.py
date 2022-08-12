@@ -11,8 +11,8 @@ default_layout_config = {
 }
 
 layouts = [
-    layout.MonadTall(**default_layout_config),
     layout.Columns(**default_layout_config),
+    layout.MonadTall(**default_layout_config),
     layout.Max(**default_layout_config),
     # Try more layouts by unleashing below layouts.
     # layout.Stack(num_stacks=2),
