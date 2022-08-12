@@ -40,7 +40,7 @@ default_layout_config = {
     "border_focus": '#5294e2',
     "border_normal": '#2c5380',
     "border_width": 2,
-    "margin": 3,
+    "margin": 2,
 }
 
 layouts = [

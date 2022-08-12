@@ -83,7 +83,8 @@ def get_widgets(primary=False):
             hide_unused = False,
             spacing = 5,
             this_current_screen_border = colors["yellow"],
-            background = colors["black"]
+            background = colors["black"],
+            fontsize = 14
         ),
         widget.TextBox(
             text = " ",
@@ -94,7 +95,7 @@ def get_widgets(primary=False):
         ),
         widget.WindowName(
             font = 'Comic Code',
-            fontsize = 16,
+            fontsize = 14,
             padding = 3,
             format = '{state}{name}',
             foreground = colors["white"],
@@ -125,16 +126,19 @@ def get_widgets(primary=False):
             format=" {load_percent:04}% ",
             mouse_callbacks={"Button1": lazy.spawn("kitty -e htop")},
             background = colors["yellow"],
-            foreground = colors["bg"]
+            foreground = colors["bg"],
+            font = 'Comic Code',
+            fontsize = 14,
         ),
         widget.Memory(
             format = '{MemUsed: .0f}{mm}/{MemTotal:.0f}{mm} ',
             padding = 0,
-            fontsize = 16,
             measure_mem = 'G',
             measure_swap = 'G',
             foreground = colors["black"],
             background = colors["yellow"],
+            font = 'Comic Code',
+            fontsize = 14,
         ),
         widget.TextBox(
             text = "",
@@ -152,6 +156,8 @@ def get_widgets(primary=False):
             empty_char = "",
             show_short_text = False,
             background = colors["magenta"],
+            font = 'Comic Code',
+            fontsize = 14,
         ),
         widget.ThermalZone(
             format=' {temp}°C',
@@ -161,14 +167,18 @@ def get_widgets(primary=False):
             fgcolor_crit = 'ff0000',
             fgcolor_high = 'ffaa00',
             fgcolor_normal= '000000',
-            background = colors["magenta"]
+            background = colors["magenta"],
+            font = 'Comic Code',
+            fontsize = 14,
         ),
         widget.NvidiaSensors(
             format = '| {temp}°C ',
             threshold=  68,
             foreground_alert = 'ff6000',
             foreground = "000000",
-            background = colors["magenta"]
+            background = colors["magenta"],
+            font = 'Comic Code',
+            fontsize = 14,
         ),
         widget.TextBox(
             text = "",
@@ -180,11 +190,13 @@ def get_widgets(primary=False):
         widget.Clock(
             format="%d/%m/%y - %I:%M %p ", 
             foreground = colors["white"],
-            background = colors["pink"]
+            background = colors["pink"],
+            font = 'Comic Code',
+            fontsize = 14,
         ),
     ]
     if primary:
-        widgets.insert(7, widget.Systray())
+        widgets.insert(7, widget.Systray(padding=5))
     return widgets
 
 
@@ -194,8 +206,11 @@ screens = [
             get_widgets(primary = True),
             30,
             background = colors["fg_gutter"],
-            margin=[0, 0, 0, 0],
+            margin=[4, 4, 2, 4],
         ),
+        bottom=bar.Gap(2),
+        left=bar.Gap(2),
+        right=bar.Gap(2),
     ),
     Screen(
         top = bar.Bar(
@@ -203,8 +218,11 @@ screens = [
             get_widgets(primary = False),
             30,
             background="#00000000",
-            margin=[0, 0, 0, 0],
-        )
+            margin=[4, 4, 2, 4],
+        ),
+        bottom=bar.Gap(2),
+        left=bar.Gap(2),
+        right=bar.Gap(2),
     )
 ]
 
