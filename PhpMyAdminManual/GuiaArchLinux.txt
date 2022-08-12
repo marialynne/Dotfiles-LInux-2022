@@ -138,3 +138,8 @@ http://localhost/phpmyadmin
 # Borramos el que viene por defecto 
 # Pegamos el nuestro ya configurado
 
+# Tambien puedes pegar el archivo de configuración de Apache por si hay errores
+/etc/httpd/conf/
+# Borramos el que viene por defecto: httpd.conf
+# Pegamos el nuestro 
+
