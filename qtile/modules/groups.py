@@ -3,7 +3,7 @@ from libqtile.command import lazy
 from .keys import keys, mod
 
 # WORKSPACES
-groups = [ Group(f"{i+1}", label="") for i in range(9)]
+groups = [ Group(f"{i+1}", label="") for i in range(5)]
 group_hotkeys = "123456789"
 #  groups = [
     #  Group("1", label=""),

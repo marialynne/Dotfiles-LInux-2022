@@ -3,6 +3,7 @@ from libqtile.config import Key
 
 mod = "mod4"
 terminal = "kitty"
+browser = "brave" 
 
 keys = [
     # A list of available commands that can be bound to keys can be found
@@ -105,4 +106,20 @@ keys = [
     # Qtile controls
     Key([mod, "control"], "r", lazy.reload_config(), desc="Reload the config"),
     Key([mod, "control"], "q", lazy.shutdown(), desc="Shutdown Qtile"),
+
+    # ------------ App Configs ------------
+    # Menu
+    Key([mod], "m", lazy.spawn("rofi -show drun")),
+
+    # Window Nav
+    Key([mod, "shift"], "m", lazy.spawn("rofi -show")),
+
+    # Browser
+    Key([mod], "b", lazy.spawn(browser)),
+
+    # File Explorer
+    Key([mod], "e", lazy.spawn("thunar")),
+    # Redshift
+    Key([mod], "r", lazy.spawn("redshift -O 2400")),
+    Key([mod, "shift"], "r", lazy.spawn("redshift -x")),
 ]

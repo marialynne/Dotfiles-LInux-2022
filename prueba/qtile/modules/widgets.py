@@ -1,5 +1,7 @@
-#from libqtile import widget
-#from libqtile import qtile
+from libqtile import widget
+from libqtile import qtile
+from .screens import *
+
 
 colors = [
 	      ["#282c34", "#282c34"], # panel background
@@ -11,7 +13,6 @@ colors = [
           ["#e1acff", "#e1acff"], # window name
           ["#ecbbfb", "#ecbbfb"]  # backbround for inactive screens
 ] 
-
 
 widget_defaults = dict(
     font='Cantarell',
@@ -55,3 +56,4 @@ volume = MyVolume(
     background='#2f343f',
     mouse_callbacks = {'Button1': lambda: qtile.cmd_spawn("pavucontrol")}
 )
+
