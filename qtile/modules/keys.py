@@ -119,7 +119,12 @@ keys = [
 
     # File Explorer
     Key([mod], "e", lazy.spawn("thunar")),
+
     # Redshift
     Key([mod], "r", lazy.spawn("redshift -O 2400")),
     Key([mod, "shift"], "r", lazy.spawn("redshift -x")),
+
+    # Floating windows
+    Key([mod], "f", lazy.window.toggle_floating(),desc="Toggle floating"),
+
 ]
