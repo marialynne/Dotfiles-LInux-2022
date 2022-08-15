@@ -196,7 +196,7 @@ def get_widgets(primary=False):
         ),
     ]
     if primary:
-        widgets.insert(7, widget.Systray(padding=5))
+        widgets.insert(6, widget.Systray(padding=5))
     return widgets
 
 

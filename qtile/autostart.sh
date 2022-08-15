@@ -6,7 +6,7 @@ blueman-applet & disown
 nm-applet & disown
 xfce4-clipman & disown
 xclip & disown
-
+discord & disown
 
 ln $HOME/.config/qtile/config/starship.toml $STARSHIP
 
