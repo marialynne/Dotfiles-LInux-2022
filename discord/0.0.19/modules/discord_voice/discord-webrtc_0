@@ -6236,3 +6236,383 @@ WebRTC.Video.HarmonicFrameRate 60
 [2022-08-15 02:57:30.215] [14819] (device_info_linux.cc:78): GetDeviceName
 [2022-08-15 02:57:30.215] [14819] (device_info_linux.cc:45): NumberOfDevices
 [2022-08-15 02:57:30.215] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:33.217] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:33.438] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 341662, noise canceller process time: 0 [ms]
+[2022-08-15 02:57:33.438] [14830] (captured_audio_processor.cpp:93): Audio frame: 341662, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 69
+[2022-08-15 02:57:33.447] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:33.448] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:33.448] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:33.449] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:33.467] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 7148
+[2022-08-15 02:57:33.467] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1000, samples: 441000, rate: 44056, rate diff: 0%, level: 0
+[2022-08-15 02:57:33.487] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 27
+[2022-08-15 02:57:33.523] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 27, rtt: 35
+[2022-08-15 02:57:33.819] [34105] (rtcp_sender.cc:471): Sender Report {ssrc: 85399, ntp: 3869539053:3522122290, rtp_timestamp: 1335332935, last_rtp_timestamp: 6261120, last_frame_capture_time_ms: 27486055, now_us: 27486055058, rtp_rate: 48}
+[2022-08-15 02:57:33.821] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:57:33.821] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 2194, packets lost: 0
+[2022-08-15 02:57:33.821] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 82 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:57:33.821] [14818] (connection.cpp:747): Memory usage: 453MB, CPU usage:N/A
+[2022-08-15 02:57:36.450] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:36.674] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:36.675] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:36.675] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:36.675] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:38.487] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 28
+[2022-08-15 02:57:38.524] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 28, rtt: 36
+[2022-08-15 02:57:39.677] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:39.898] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:39.899] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:39.899] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:39.900] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:40.785] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-08-15 02:57:40.824] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-08-15 02:57:42.904] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:43.131] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:43.131] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:43.132] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:43.132] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:43.449] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 342663, noise canceller process time: 0 [ms]
+[2022-08-15 02:57:43.449] [14830] (captured_audio_processor.cpp:93): Audio frame: 342663, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 131
+[2022-08-15 02:57:43.477] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 658
+[2022-08-15 02:57:43.477] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-08-15 02:57:43.488] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 29
+[2022-08-15 02:57:43.525] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 29, rtt: 36
+[2022-08-15 02:57:43.844] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:57:43.844] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 2230, packets lost: 0
+[2022-08-15 02:57:43.844] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 68 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:57:43.844] [14818] (connection.cpp:747): Memory usage: 453MB, CPU usage:N/A
+[2022-08-15 02:57:46.134] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:46.354] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:46.355] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:46.355] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:46.355] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:47.863] [14795] (discord.cpp:517): JS console: ["%c[Spotify]","WS Connecting"]
+[2022-08-15 02:57:48.489] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 30
+[2022-08-15 02:57:48.523] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 30, rtt: 33
+[2022-08-15 02:57:48.792] [14795] (discord.cpp:517): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2022-08-15 02:57:49.357] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:49.577] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:49.578] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:49.578] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:49.578] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:52.581] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:52.804] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:52.805] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:52.805] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:52.805] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:53.460] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 343664, noise canceller process time: 0 [ms]
+[2022-08-15 02:57:53.460] [14830] (captured_audio_processor.cpp:93): Audio frame: 343664, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 63
+[2022-08-15 02:57:53.487] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 3115
+[2022-08-15 02:57:53.487] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1002, samples: 441882, rate: 44144, rate diff: 0%, level: 0
+[2022-08-15 02:57:53.489] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 31
+[2022-08-15 02:57:53.525] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 31, rtt: 35
+[2022-08-15 02:57:53.871] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:57:53.871] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 2411, packets lost: 0
+[2022-08-15 02:57:53.871] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 82 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:57:53.871] [14818] (connection.cpp:747): Memory usage: 453MB, CPU usage:N/A
+[2022-08-15 02:57:54.535] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-08-15 02:57:54.574] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-08-15 02:57:55.807] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:56.031] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:56.031] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:56.031] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:56.032] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:58.490] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 32
+[2022-08-15 02:57:58.526] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 32, rtt: 35
+[2022-08-15 02:57:59.034] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:59.265] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:59.266] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:57:59.266] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:57:59.267] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:02.270] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:02.501] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:02.501] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:02.501] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:02.502] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:03.466] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 344665, noise canceller process time: 0 [ms]
+[2022-08-15 02:58:03.466] [14830] (captured_audio_processor.cpp:93): Audio frame: 344665, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 189
+[2022-08-15 02:58:03.490] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 33
+[2022-08-15 02:58:03.497] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 3275
+[2022-08-15 02:58:03.497] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1000, samples: 441000, rate: 44056, rate diff: 0%, level: 0
+[2022-08-15 02:58:03.523] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 33, rtt: 33
+[2022-08-15 02:58:03.893] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:58:03.893] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 2645, packets lost: 0
+[2022-08-15 02:58:03.893] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 38 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:58:03.893] [14818] (connection.cpp:747): Memory usage: 454MB, CPU usage:N/A
+[2022-08-15 02:58:05.504] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:05.727] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:05.728] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:05.728] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:05.728] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:06.510] [34103] (rtcp_sender.cc:471): Sender Report {ssrc: 85399, ntp: 3869539086:2193770510, rtp_timestamp: 1336902487, last_rtp_timestamp: 7829760, last_frame_capture_time_ms: 27518727, now_us: 27518745777, rtp_rate: 48}
+[2022-08-15 02:58:08.285] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-08-15 02:58:08.326] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-08-15 02:58:08.490] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 34
+[2022-08-15 02:58:08.526] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 34, rtt: 35
+[2022-08-15 02:58:08.732] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:08.954] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:08.955] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:08.955] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:08.955] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:11.957] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:12.177] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:12.178] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:12.178] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:12.179] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:13.467] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 345665, noise canceller process time: 0 [ms]
+[2022-08-15 02:58:13.467] [14830] (captured_audio_processor.cpp:93): Audio frame: 345665, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 82
+[2022-08-15 02:58:13.492] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 35
+[2022-08-15 02:58:13.507] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 2224
+[2022-08-15 02:58:13.507] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1002, samples: 441882, rate: 44144, rate diff: 0%, level: 0
+[2022-08-15 02:58:13.525] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 35, rtt: 33
+[2022-08-15 02:58:13.912] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:58:13.912] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 2771, packets lost: 0
+[2022-08-15 02:58:13.912] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 53 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:58:13.912] [14818] (connection.cpp:747): Memory usage: 454MB, CPU usage:N/A
+[2022-08-15 02:58:15.180] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:15.404] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:15.404] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:15.404] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:15.405] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:18.408] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:18.492] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 36
+[2022-08-15 02:58:18.526] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 36, rtt: 33
+[2022-08-15 02:58:18.635] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:18.636] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:18.636] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:18.637] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:21.639] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:21.867] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:21.868] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:21.868] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:21.868] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:22.035] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-08-15 02:58:22.071] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-08-15 02:58:23.381] [34101] (udp_socket.cpp:607): Reconnection started, sending echo
+[2022-08-15 02:58:23.416] [34101] (udp_socket.cpp:194): ReconnectionAttemptFinished: succeeded, local address: 187.189.246.250:14261
+[2022-08-15 02:58:23.472] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 346666, noise canceller process time: 0 [ms]
+[2022-08-15 02:58:23.472] [14830] (captured_audio_processor.cpp:93): Audio frame: 346666, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 96
+[2022-08-15 02:58:23.492] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 37
+[2022-08-15 02:58:23.517] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 1260
+[2022-08-15 02:58:23.517] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-08-15 02:58:23.526] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 37, rtt: 34
+[2022-08-15 02:58:23.936] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:58:23.936] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 2796, packets lost: 0
+[2022-08-15 02:58:23.936] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 34 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:58:23.936] [14818] (connection.cpp:747): Memory usage: 454MB, CPU usage:N/A
+[2022-08-15 02:58:24.871] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:25.101] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:25.102] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:25.103] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:25.104] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:28.107] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:28.331] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:28.331] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:28.331] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:28.332] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:28.492] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 38
+[2022-08-15 02:58:28.528] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 38, rtt: 35
+[2022-08-15 02:58:31.334] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:31.561] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:31.562] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:31.567] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:31.568] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:33.479] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 347667, noise canceller process time: 0 [ms]
+[2022-08-15 02:58:33.479] [14830] (captured_audio_processor.cpp:93): Audio frame: 347667, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 97
+[2022-08-15 02:58:33.492] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 39
+[2022-08-15 02:58:33.526] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 39, rtt: 33
+[2022-08-15 02:58:33.527] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 5362
+[2022-08-15 02:58:33.527] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-08-15 02:58:33.965] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:58:33.965] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 2881, packets lost: 0
+[2022-08-15 02:58:33.965] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 33 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:58:33.965] [14818] (connection.cpp:747): Memory usage: 455MB, CPU usage:N/A
+[2022-08-15 02:58:34.571] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:34.798] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:34.799] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:34.799] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:34.800] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:35.785] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-08-15 02:58:35.821] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-08-15 02:58:37.804] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:38.024] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:38.025] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:38.025] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:38.025] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:38.492] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 40
+[2022-08-15 02:58:38.527] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 40, rtt: 34
+[2022-08-15 02:58:40.003] [34103] (rtcp_sender.cc:471): Sender Report {ssrc: 85399, ntp: 3869539120:16892106, rtp_timestamp: 1338510103, last_rtp_timestamp: 9437760, last_frame_capture_time_ms: 27552228, now_us: 27552238933, rtp_rate: 48}
+[2022-08-15 02:58:41.027] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:41.247] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:41.248] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:41.248] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:41.248] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:43.481] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 348667, noise canceller process time: 0 [ms]
+[2022-08-15 02:58:43.481] [14830] (captured_audio_processor.cpp:93): Audio frame: 348667, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 102
+[2022-08-15 02:58:43.492] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 41
+[2022-08-15 02:58:43.527] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 41, rtt: 34
+[2022-08-15 02:58:43.537] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 1635
+[2022-08-15 02:58:43.537] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-08-15 02:58:43.994] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:58:43.994] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 2906, packets lost: 0
+[2022-08-15 02:58:43.994] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 33 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:58:43.994] [14818] (connection.cpp:747): Memory usage: 455MB, CPU usage:N/A
+[2022-08-15 02:58:44.250] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:44.471] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:44.471] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:44.471] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:44.472] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:47.474] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:47.701] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:47.701] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:47.701] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:47.702] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:48.493] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 42
+[2022-08-15 02:58:48.528] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 42, rtt: 34
+[2022-08-15 02:58:48.792] [14795] (discord.cpp:517): JS console: ["%c[Spotify]","WS Connecting"]
+[2022-08-15 02:58:49.177] [14795] (discord.cpp:517): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2022-08-15 02:58:49.535] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-08-15 02:58:49.571] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-08-15 02:58:50.704] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:50.935] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:50.936] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:50.936] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:50.937] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:53.486] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 349667, noise canceller process time: 0 [ms]
+[2022-08-15 02:58:53.486] [14830] (captured_audio_processor.cpp:93): Audio frame: 349667, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 117
+[2022-08-15 02:58:53.493] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 43
+[2022-08-15 02:58:53.527] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 43, rtt: 34
+[2022-08-15 02:58:53.547] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 1090
+[2022-08-15 02:58:53.547] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-08-15 02:58:53.939] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:54.022] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:58:54.022] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 3002, packets lost: 0
+[2022-08-15 02:58:54.022] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 33 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:58:54.022] [14818] (connection.cpp:747): Memory usage: 455MB, CPU usage:N/A
+[2022-08-15 02:58:54.157] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:54.158] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:54.158] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:54.158] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:57.162] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:57.381] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:57.382] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:57.383] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:58:57.383] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:58:58.494] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 44
+[2022-08-15 02:58:58.530] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 44, rtt: 36
+[2022-08-15 02:59:00.387] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:00.561] [14829] (audio_device_pulse_linux.cc:1768): Playout underflow
+[2022-08-15 02:59:00.611] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:00.611] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:00.611] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:00.612] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:03.285] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-08-15 02:59:03.320] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-08-15 02:59:03.488] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 350667, noise canceller process time: 0 [ms]
+[2022-08-15 02:59:03.488] [14830] (captured_audio_processor.cpp:93): Audio frame: 350667, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 114
+[2022-08-15 02:59:03.494] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 45
+[2022-08-15 02:59:03.528] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 45, rtt: 34
+[2022-08-15 02:59:03.557] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1000, samples: 441000, rate: 44056, rate diff: 0%, level: 6357
+[2022-08-15 02:59:03.557] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1001, samples: 441441, rate: 44100, rate diff: 0%, level: 0
+[2022-08-15 02:59:03.614] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:03.844] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:03.845] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:03.845] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:03.845] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:04.052] [14818] (connection.cpp:635): Outbound stats for user: 597848646960152604
+[2022-08-15 02:59:04.052] [14818] (connection.cpp:637):   Audio ssrc: 85399, packets sent: 3085, packets lost: 0
+[2022-08-15 02:59:04.052] [14818] (connection.cpp:725): Transport stats for user: 597848646960152604, rtt: 60 [ms], available bitrate: 600000 [bps], outbound estimate: 600000 [bps], remb: 0 [bps], inbound estimate: 0
+[2022-08-15 02:59:04.052] [14818] (connection.cpp:747): Memory usage: 456MB, CPU usage:N/A
+[2022-08-15 02:59:06.847] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:07.071] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:07.071] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:07.071] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:07.072] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:08.494] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 46
+[2022-08-15 02:59:08.531] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 46, rtt: 36
+[2022-08-15 02:59:10.074] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:10.304] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:10.305] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:10.305] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:10.305] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:10.984] [14795] (discord.cpp:517): JS console: ["%c[GatewaySocket]","[WS CLOSED] (true, 4003, Not authenticated.) retrying in 2.62 seconds."]
+[2022-08-15 02:59:11.068] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","[WS CLOSED] (clean: true, code: 4014, reason: Disconnected.) retrying in 2.66 seconds."]
+[2022-08-15 02:59:11.684] [34103] (rtcp_sender.cc:471): Sender Report {ssrc: 85399, ntp: 3869539151:2941502841, rtp_timestamp: 1340030455, last_rtp_timestamp: 10958400, last_frame_capture_time_ms: 27583915, now_us: 27583919872, rtp_rate: 48}
+[2022-08-15 02:59:13.307] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:13.495] [14830] (captured_audio_processor.cpp:82): Audio frames processed: 351668, noise canceller process time: 0 [ms]
+[2022-08-15 02:59:13.495] [14830] (captured_audio_processor.cpp:93): Audio frame: 351668, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 85
+[2022-08-15 02:59:13.495] [34101] (udp_socket.cpp:874): Sending ping to 66.22.245.27:50003, seq: 47
+[2022-08-15 02:59:13.531] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:13.532] [34101] (socket_client.cpp:263): Ping received from 66.22.245.27:50003, seq: 47, rtt: 36
+[2022-08-15 02:59:13.532] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:13.533] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:13.533] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:13.567] [14828] (audio_device_buffer.cc:411): [REC : 10010msec, 44kHz] callbacks: 1002, samples: 441882, rate: 44144, rate diff: 0%, level: 32767
+[2022-08-15 02:59:13.567] [14828] (audio_device_buffer.cc:437): [PLAY: 10010msec, 44kHz] callbacks: 1000, samples: 441000, rate: 44056, rate diff: 0%, level: 0
+[2022-08-15 02:59:13.606] [14795] (discord.cpp:517): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zlib-stream"]
+[2022-08-15 02:59:13.731] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","[RECONNECT] wasClean=true code=4014 reason=Disconnected."]
+[2022-08-15 02:59:13.732] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","[CONNECT] wss://us-south3247.discord.media/"]
+[2022-08-15 02:59:13.780] [14795] (discord.cpp:517): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zlib-stream in 173 ms"]
+[2022-08-15 02:59:13.780] [14795] (discord.cpp:517): JS console: ["%c[GatewaySocket]","[RESUME] resuming session e60bc0ded26bd84271346a640c780f4f, seq: 7192"]
+[2022-08-15 02:59:13.783] [14795] (discord.cpp:517): JS console: ["%c[GatewaySocket]","[HELLO] via [\"gateway-prd-main-kb6j\",{\"micros\":0.0}], heartbeat interval: 41250, took 176 ms"]
+[2022-08-15 02:59:13.854] [14795] (discord.cpp:517): JS console: ["%c[GatewaySocket]","[INVALID_SESSION]"]
+[2022-08-15 02:59:13.855] [14795] (discord.cpp:517): JS console: ["%c[ConnectionStore]","handleIdentify called","[object Object]"]
+[2022-08-15 02:59:13.856] [14795] (discord.cpp:517): JS console: ["%c[GatewaySocket]","[IDENTIFY]"]
+[2022-08-15 02:59:13.878] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","[RESUME] resuming session. serverId=685385321336275000 sessionId=e60bc0ded26bd84271346a640c780f4f"]
+[2022-08-15 02:59:13.879] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","[CONNECTED] wss://us-south3247.discord.media/ in 147 ms"]
+[2022-08-15 02:59:13.880] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","[HELLO] heartbeat interval: 13750, version: 7, took 147 ms"]
+[2022-08-15 02:59:13.880] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","Starting heartbeat with interval: 13750"]
+[2022-08-15 02:59:13.963] [14795] (discord.cpp:517): JS console: ["%c[GatewaySocket]","[WS CLOSED] because of authentication failure, marking as closed."]
+[2022-08-15 02:59:13.963] [14795] (discord.cpp:517): JS console: ["%c[GatewaySocket]","[RESET] (true, 4004, Authentication failed.)"]
+[2022-08-15 02:59:13.965] [14795] (discord.cpp:517): JS console: ["%c[AuthenticationStore]","handleConnectionClosed called with code 4004.","[object Object]"]
+[2022-08-15 02:59:13.965] [14795] (discord.cpp:517): JS console: ["%c[AuthenticationStore]","handleLogout called.","[object Object]"]
+[2022-08-15 02:59:13.966] [14795] (discord.cpp:517): JS console: ["%c[AuthenticationStore]","removeAuthToken called.","[object Object]"]
+[2022-08-15 02:59:13.973] [14795] (discord.cpp:517): JS console: ["%c[RTCConnection(685385321336275000)]","Destroy RTCConnection"]
+[2022-08-15 02:59:13.974] [14795] (discord.cpp:517): JS console: ["%c[RTCControlSocket]","CLOSE"]
+[2022-08-15 02:59:13.975] [14795] (discord.cpp:517): JS console: ["%c[RTCConnection(685385321336275000)]","Disconnected from RTC server, clean: true, code: 1000, reason: Force Close, state: RTC_CONNECTED"]
+[2022-08-15 02:59:13.978] [14818] (audio_device_impl.cc:889): Recording
+[2022-08-15 02:59:13.978] [14818] (audio_device_impl.cc:878): StopRecording
+[2022-08-15 02:59:13.978] [14818] (audio_device_buffer.cc:153): StopRecording
+[2022-08-15 02:59:13.979] [14818] (audio_device_buffer.cc:173): HISTOGRAM(WebRTC.Audio.RecordedOnlyZeros): 0
+[2022-08-15 02:59:13.979] [14818] (audio_device_buffer.cc:176): total recording time: 230639
+[2022-08-15 02:59:13.979] [14818] (audio_device_impl.cc:882): output: 0
+[2022-08-15 02:59:13.979] [14795] (discord.cpp:517): JS console: ["Connection state change: CONNECTED => DISCONNECTED"]
+[2022-08-15 02:59:13.979] [14818] (audio_device_impl.cc:878): StopRecording
+[2022-08-15 02:59:13.979] [14818] (audio_device_impl.cc:882): output: 0
+[2022-08-15 02:59:13.979] [14818] (call.cc:1168): UpdateAggregateNetworkState: aggregate_state change to down
+[2022-08-15 02:59:13.979] [14818] (audio_send_stream.cc:178): ~AudioSendStream: 85399
+[2022-08-15 02:59:13.979] [34102] (pacing_controller.cc:162): PacedSender paused.
+[2022-08-15 02:59:13.979] [34102] (control_handler.cc:78): Bitrate estimate state changed, BWE: 600 kbps.
+[2022-08-15 02:59:13.979] [14795] (discord.cpp:517): JS console: ["%c[RTCConnection(685385321336275000)]","RTC media connection state change: RTC_CONNECTED => DISCONNECTED"]
+[2022-08-15 02:59:13.980] [14795] (discord.cpp:517): JS console: ["%c[RTCConnection(685385321336275000)]","RTC connection state: RTC_CONNECTED => RTC_DISCONNECTED"]
+[2022-08-15 02:59:13.981] [14795] (discord.cpp:517): JS console: ["Connection state change: DISCONNECTED => DISCONNECTED"]
+[2022-08-15 02:59:13.981] [14795] (discord.cpp:517): JS console: ["%c[RTCConnection(685385321336275000)]","RTC media connection state change: RTC_DISCONNECTED => DISCONNECTED"]
+[2022-08-15 02:59:13.981] [14795] (discord.cpp:517): JS console: ["%c[RTCConnection(685385321336275000)]","RTC connection state: RTC_DISCONNECTED => RTC_DISCONNECTED"]
+[2022-08-15 02:59:13.982] [14818] (engine.cpp:355): Stopping audio output device
+[2022-08-15 02:59:13.982] [14818] (audio_device_impl.cc:858): Playing
+[2022-08-15 02:59:13.982] [14818] (audio_device_impl.cc:847): StopPlayout
+[2022-08-15 02:59:13.982] [14818] (audio_device_buffer.cc:139): StopPlayout
+[2022-08-15 02:59:13.982] [14818] (audio_device_buffer.cc:145): total playout time: 230643
+[2022-08-15 02:59:13.982] [14818] (audio_device_impl.cc:851): output: 0
+[2022-08-15 02:59:13.982] [14818] (paced_sender.cc:186): ProcessThreadAttached 0x0
+[2022-08-15 02:59:13.982] [14795] (discord.cpp:517): JS console: ["%c[RTCConnection(685385321336275000)]","RTC connection state: RTC_DISCONNECTED => DISCONNECTED"]
+[2022-08-15 02:59:13.983] [14818] (paced_sender.cc:186): ProcessThreadAttached 0x0
+[2022-08-15 02:59:13.983] [34101] (udp_socket.cpp:382): Disconnect
+[2022-08-15 02:59:14.415] [14795] (discord.cpp:517): JS console: ["%c[Flux]","Slow batch emitChanges took 390ms recentActions:",""]
+[2022-08-15 02:59:14.416] [14795] (discord.cpp:517): JS console: ["%c[Flux]","Slow dispatch on CONNECTION_CLOSED: 452.1000000014901ms"]
+[2022-08-15 02:59:14.418] [14795] (discord.cpp:517): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /login"]
+[2022-08-15 02:59:16.537] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:16.669] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:16.670] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:16.670] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:16.671] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:19.674] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:19.898] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:19.899] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:19.900] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:19.901] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:22.904] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:23.128] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:23.129] [14819] (device_info_linux.cc:78): GetDeviceName
+[2022-08-15 02:59:23.129] [14819] (device_info_linux.cc:45): NumberOfDevices
+[2022-08-15 02:59:23.131] [14819] (device_info_linux.cc:78): GetDeviceName
