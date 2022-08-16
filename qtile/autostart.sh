@@ -6,7 +6,8 @@ blueman-applet & disown
 nm-applet & disown
 xfce4-clipman & disown
 xclip & disown
-discord & disown
+#discord & disown
+#xrandr --output DP-0 --auto --output DP-2 --auto --left-of DP-0 & disown
 
-ln $HOME/.config/qtile/config/starship.toml $STARSHIP
+ln $HOME/.config/starship.toml $STARSHIP
 
