@@ -4,6 +4,7 @@ from libqtile.config import Key
 mod = "mod4"
 terminal = "kitty"
 browser = "brave" 
+rofi = "sh /home/manu320/.config/rofi/launchers/type-6/launcher.sh"
 
 keys = [
     # A list of available commands that can be bound to keys can be found
@@ -109,7 +110,7 @@ keys = [
 
     # ------------ App Configs ------------
     # Menu
-    Key([mod], "m", lazy.spawn("rofi -show drun")),
+    Key([mod], "m", lazy.spawn(rofi)),
 
     # Window Nav
     Key([mod, "shift"], "m", lazy.spawn("rofi -show")),

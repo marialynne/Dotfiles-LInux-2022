@@ -20,7 +20,7 @@ from modules.screens import screens
 import os
 import subprocess 
 from modules.groups import groups
-from modules.keys import keys, mod
+from modules.keys import keys, mod, rofi
 from modules.layouts import layouts, floating_layout, colors
 from modules.mouse import mouse
 from modules.hooks import *
@@ -52,7 +52,7 @@ def get_widgets(primary=False):
             text = "    ",
             fontsize = 20,
             padding = 0,
-            mouse_callbacks = {"Button1": lazy.spawn("rofi -show drun")},
+            mouse_callbacks = {"Button1": lazy.spawn(rofi)},
             background = colors["magenta"],
             foreground = colors["black"]
         ),
