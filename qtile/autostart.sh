@@ -1,6 +1,7 @@
 #!/bin/sh
 picom &  disown # --experimental-backends --vsync should prevent screen tearing on most setups if needed
 setxkbmap latam & disown # Layout keyboard LATAM
+#setxkbmap -layout us -variant intl & disown
 dunst & disown 
 blueman-applet & disown
 nm-applet & disown

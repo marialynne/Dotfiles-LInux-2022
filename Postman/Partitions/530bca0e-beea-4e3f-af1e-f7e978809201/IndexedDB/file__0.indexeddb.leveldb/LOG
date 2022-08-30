@@ -1,0 +1,6 @@
+2022/08/26-14:05:32.822 c1c Creating DB /home/manu320/.config/Postman/Partitions/530bca0e-beea-4e3f-af1e-f7e978809201/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2022/08/26-14:05:32.830 c1c Reusing MANIFEST /home/manu320/.config/Postman/Partitions/530bca0e-beea-4e3f-af1e-f7e978809201/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/08/26-14:05:32.834 c1d Level-0 table #5: started
+2022/08/26-14:05:32.835 c1d Level-0 table #5: 492 bytes OK
+2022/08/26-14:05:32.837 c1d Delete type=0 #3
+2022/08/26-14:05:32.837 c1d Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

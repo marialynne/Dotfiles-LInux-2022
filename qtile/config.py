@@ -188,7 +188,7 @@ def get_widgets(primary=False):
             background = colors["magenta"],
         ),
         widget.Clock(
-            format="%d/%m/%y - %I:%M %p ", 
+            format="%I:%M %p - %d/%m/%y ", 
             foreground = colors["white"],
             background = colors["pink"],
             font = 'Comic Code',
