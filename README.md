@@ -6,6 +6,7 @@ I hope to delve into cybersecurity. Anyway, these are the dotfiles from the year
 Feel free to get inspired and copy what you want, the code is free :)
 
 You can contact me for any questions at manu320camacho@outlook.com
+
 I was inspired by:  
 - https://github.com/the-argus/rose-pine-dots
 - https://github.com/mjschwenne/dotfiles
