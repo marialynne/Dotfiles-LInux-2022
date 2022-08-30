@@ -1,4 +1,0 @@
-2022/08/26-14:05:36.145 c0b Reusing MANIFEST /home/manu320/.config/Postman/Partitions/530bca0e-beea-4e3f-af1e-f7e978809201/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/26-14:05:36.146 c0b Recovering log #8
-2022/08/26-14:05:36.148 c0b Reusing old log /home/manu320/.config/Postman/Partitions/530bca0e-beea-4e3f-af1e-f7e978809201/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/000008.log 
-2022/08/26-14:05:36.148 c0b Delete type=2 #7
