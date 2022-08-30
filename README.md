@@ -7,6 +7,10 @@ Feel free to get inspired and copy what you want, the code is free :)
 
 You can contact me for any questions at manu320camacho@outlook.com
 
+I was inspired by:  
+- https://github.com/the-argus/rose-pine-dots
+- https://github.com/mjschwenne/dotfiles
+
 ![alt text](https://github.com/Manuel-Camacho-Padilla/Dotfiles-LInux-2022/blob/master/fondo1.png)
 ![alt text](https://github.com/Manuel-Camacho-Padilla/Dotfiles-LInux-2022/blob/master/fondo2.png)
 ![alt text](https://github.com/Manuel-Camacho-Padilla/Dotfiles-LInux-2022/blob/master/fondo3.png)
